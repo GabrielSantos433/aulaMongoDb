@@ -1,0 +1,13 @@
+# Configurações locais do editor
+.vscode/
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Dependências, se houver
+node_modules/
+
+# Arquivos temporários
+*.log

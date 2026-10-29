@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "Notebook Lenovo",
+    "categoria": "Informática",
+    "preco": 3500,
+    "quantidade": 10,
+    "marca": "Lenovo",
+    "ativo": true
+  },
+  {
+    "nome": "Notebook Dell",
+    "categoria": "Informática",
+    "preco": 4200,
+    "quantidade": 5,
+    "marca": "Dell",
+    "ativo": true
+  },
+  {
+    "nome": "Mouse Logitech",
+    "categoria": "Periféricos",
+    "preco": 120,
+    "quantidade": 30,
+    "marca": "Logitech",
+    "ativo": true
+  },
+  {
+    "nome": "Teclado Mecânico",
+    "categoria": "Periféricos",
+    "preco": 350,
+    "quantidade": 15,
+    "marca": "Redragon",
+    "ativo": true
+  },
+  {
+    "nome": "Monitor LG",
+    "categoria": "Monitores",
+    "preco": 1100,
+    "quantidade": 8,
+    "marca": "LG",
+    "ativo": true
+  },
+  {
+    "nome": "Monitor Samsung",
+    "categoria": "Monitores",
+    "preco": 1500,
+    "quantidade": 3,
+    "marca": "Samsung",
+    "ativo": false
+  },
+  {
+    "nome": "Impressora Epson",
+    "categoria": "Impressoras",
+    "preco": 900,
+    "quantidade": 7,
+    "marca": "Epson",
+    "ativo": true
+  },
+  {
+    "nome": "HD Externo",
+    "categoria": "Armazenamento",
+    "preco": 450,
+    "quantidade": 20,
+    "marca": "Seagate",
+    "ativo": true
+  },
+  {
+    "nome": "SSD 1TB",
+    "categoria": "Armazenamento",
+    "preco": 600,
+    "quantidade": 12,
+    "marca": "Kingston",
+    "ativo": true
+  },
+  {
+    "nome": "Placa de Vídeo RTX",
+    "categoria": "Componentes",
+    "preco": 3200,
+    "quantidade": 4,
+    "marca": "NVIDIA",
+    "ativo": true
+  }
+]
